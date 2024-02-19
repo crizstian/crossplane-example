@@ -3,7 +3,7 @@ kind: ProviderConfig
 metadata:
   name: gcp
 spec:
-  projectID: 
+  projectID: sales-209522
   credentials:
     source: Secret
     secretRef:
