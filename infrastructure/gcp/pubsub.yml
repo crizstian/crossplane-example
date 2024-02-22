@@ -43,10 +43,10 @@ spec:
   compositeTypeRef:
     apiVersion: queue.example.com/v1alpha1
     kind: PubSub
----
-apiVersion: queue.example.com/v1alpha1
-kind: PubSub
-metadata:
-  name: crossplane-cenco
-spec: 
-  location: "US"
+# ---
+# apiVersion: queue.example.com/v1alpha1
+# kind: PubSub
+# metadata:
+#   name: crossplane-cenco
+# spec: 
+#   location: "US"
